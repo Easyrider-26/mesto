@@ -10,8 +10,8 @@
   position: absolute;
   top: -40px;
   right: -40px;
-  margin: o;
-  padding: o;
+  margin: 0;
+  padding: 0;
 }
 
 .popup__close-button:hover {
