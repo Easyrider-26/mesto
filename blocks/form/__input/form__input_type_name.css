@@ -1,25 +1,26 @@
-.form__container_type_description {
+.form__input_type_name {
     width: 358px;
     height: 14px;
-    font-family: 'Inter';
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     color: #000000;
     border: none;
-    margin: 30px auto 13px;
-    padding: 0;
+    margin: 0 auto 0;
+    padding: 0 0 13px;
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-}
-
-@media screen and (max-width: 400px) {
-    .form__container_type_description {
+    border-bottom: 1px solid rgb(0,0,0,0.2);
+  }
+  
+  @media screen and (max-width: 400px) {
+    .form__input_type_name {
       width: 238px;
       height: 14px;
-      margin: 30px 22px 13px 22px;
+      margin: 0 22px 0;
     }
   }
   
