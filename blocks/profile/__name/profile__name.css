@@ -23,5 +23,6 @@
       margin: 0 auto 14px;
       font-size: 27px;
       line-height: 33px;
+      max-width: 200px;
     }
   }

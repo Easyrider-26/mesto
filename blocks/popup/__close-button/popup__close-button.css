@@ -12,6 +12,7 @@
   right: -40px;
   margin: 0;
   padding: 0;
+  cursor: pointer;
 }
 
 .popup__close-button:hover {
@@ -22,7 +23,6 @@ opacity: 0.6;
   .popup__close-button {
     width: 20px;
     height: 20px;
-    position: absolute;
     top: -36px;
     right: 0;
   }

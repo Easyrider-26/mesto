@@ -13,6 +13,7 @@
     width: 103.74px;
     height: 24.4px;
     box-sizing: border-box;
-    padding-bottom: 31.6px;
+    margin-bottom: 31.6px;
+    padding: 0;
   }
 }
